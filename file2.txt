@@ -1,3 +1,6 @@
 Git Pratical Session
+<<<<<<< HEAD
 hi good afternoon
 
+=======
+>>>>>>> 3c7fed7... Adding second file
