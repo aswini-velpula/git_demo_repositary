@@ -1,0 +1,20 @@
+From 1b3fa7664b5d1698bec3af9f13f9f2bb15000e5e Mon Sep 17 00:00:00 2001
+From: Aswini <aswini.velpula@votarytech.com>
+Date: Wed, 10 Jun 2026 12:38:33 +0530
+Subject: [PATCH 1/2] Adding third file
+
+---
+ file3.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file3.txt
+
+diff --git a/file3.txt b/file3.txt
+new file mode 100644
+index 0000000..ff5ff44
+--- /dev/null
++++ b/file3.txt
+@@ -0,0 +1 @@
++Hello Team
+-- 
+2.25.1
+
