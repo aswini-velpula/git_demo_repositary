@@ -1,3 +1,6 @@
 Hello Git
+<<<<<<< HEAD
 Hello
 sivapriya
+=======
+>>>>>>> f44b3c3... first file
